@@ -1,3 +1,9 @@
+# Source files
+.docx
+.pptx
+.rtf
+
+
 # History files
 .Rhistory
 .Rapp.history
